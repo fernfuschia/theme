@@ -1,3 +1,26 @@
-name: Fern Ritchie, New Theme
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Fern Ritchie
+tagline:          'A new theme'
+description:      'Welcome to my new theme'
+url:              http://fernritchie.github.io
+baseurl:          /
+
+author:
+  name:           'Fern Ritchie'
+  url:            https://twitter.com/fernritchie12
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/fernritchie/fernritchie
