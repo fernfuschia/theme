@@ -1,2 +1,3 @@
 name: Fern Ritchie, New Theme
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
